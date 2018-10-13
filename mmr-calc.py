@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-PRGM_AUTHOR =  "@JTweenr"
+PRGM_AUTHOR =  "Jonah Haney"
 PRGM_VERSION = "2018.1.3"
 PRGM_TITLE =   "Ranked-Play MMR Algorithm plus TestBench designed for Call of Duty: WWII"
 
